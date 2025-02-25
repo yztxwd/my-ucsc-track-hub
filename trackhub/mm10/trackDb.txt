@@ -1,3 +1,15 @@
+track Mazzoni_test
+shortLabel test
+longLabel test
+type bigWig
+logo on
+priority 33
+viewLimits -0.03:0.03
+viewLimitsMax -0.03:0.03
+bigDataUrl ftp://nas.yjylife.com/downloads/hub/seq_deepliftSHAP.bw
+visibility full
+color 128,128,128
+
 track iFoxA1
 compositeTrack on
 shortLabel FoxA1
